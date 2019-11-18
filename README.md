@@ -1,16 +1,12 @@
 # sanity-template-clean
 
-_WORK IN PROGRESS_
-
-_Template starter with a clean studio._
+_[Sanity.io](https://sanity.io) starter template with a clean studio._
 
 This template repo is used by Sanity.io to easily create deployed and configured projects through a web interface. You can test it out by [creating this project](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-clean).
 
 The template contains a Sanity Studio. It can be deployed on Netlify.
 
 Want to make a template for Sanity and your favourite front-end framework? We’re still maturing [sanity.io/create](https://sanity.io/create) and our APIs, but do tell us about it on [slack.sanity.io](https://slack.sanity.io).
-
-![The clean template](https://github.com/sanity-io/sanity-template-clean/blob/master/assets/frontend.jpg?raw=true)
 
 ## Local development
 
